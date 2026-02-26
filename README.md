@@ -39,6 +39,7 @@ Sou um **Senior Backend Engineer** especializado no ecossistema **.NET** e arqui
     <img alt="AWS" title="AWS" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
     <img alt="Lambda" title="AWS Lambda" width="40px" style="padding-right: 10px;" src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg" />
     <img alt="S3" title="AWS S3" width="40px" style="padding-right: 10px;" src="https://icon.icepanel.io/AWS/svg/Storage/S3-on-Outposts.svg" />
+    <img alt="SQS" title="Simple Queue Service" width="40px" style="padding-right: 10px;" src="https://icon.icepanel.io/AWS/svg/App-Integration/Simple-Queue-Service.svg" />
     <img alt="ECS" title="AWS ECS" width="40px" style="padding-right: 10px;" src="https://icon.icepanel.io/AWS/svg/Compute/EC2.svg" />
     <img alt="Docker" title="Docker" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 </p>
