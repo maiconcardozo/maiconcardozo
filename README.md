@@ -8,10 +8,10 @@ Sou um **Senior Backend Engineer** especializado no ecossistema **.NET** e arqui
 ### 🔗 Contato
 <p align="left">
   <a href="https://www.linkedin.com/in/cardozomaicon" target="_blank" rel="noopener noreferrer">
-    <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:maicon.cardozo@hotmail.com">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Email-D14836?style=for-the-badge&logo=mail&logoColor=white" alt="email" />
+    <img src="https://custom-icon-badges.demolab.com/badge/-Email-D14836?style=for-the-badge&logo=mail&logoColor=white" alt="Email" />
   </a>
 </p>
 
