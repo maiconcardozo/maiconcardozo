@@ -14,6 +14,7 @@ Sou um **Senior Backend Engineer** especializado no ecossistema **.NET** e arqui
     <img src="https://custom-icon-badges.demolab.com/badge/-Email-D14836?style=for-the-badge&logo=mail&logoColor=white" alt="Email" />
   </a>
 </p>
+
 ---
 
 ### 🛠️ Tecnologias & Especialidades
