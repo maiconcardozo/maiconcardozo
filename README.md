@@ -34,8 +34,8 @@ Sou um **Senior Backend Engineer** especializado no ecossistema **.NET** e arqui
   <img src="https://icon.icepanel.io/AWS/svg/Storage/S3-on-Outposts.svg" width="40" title="AWS S3" alt="S3" />
   <img src="https://icon.icepanel.io/AWS/svg/App-Integration/Simple-Queue-Service.svg" width="40" title="Simple Queue Service" alt="SQS" />
   <img src="https://icon.icepanel.io/AWS/svg/Compute/EC2.svg" width="40" title="AWS ECS" alt="ECS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" title="Docker" alt="Docker" />
   <img src="https://icon.icepanel.io/AWS/svg/Database/DynamoDB.svg" width="40" title="DynamoDB" alt="DynamoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" title="Docker" alt="Docker" />
 </p>
 
 **Data Storage & Formats**
