@@ -41,6 +41,7 @@ Sou um **Senior Backend Engineer** especializado no ecossistema **.NET** e arqui
     <img alt="SQS" title="Simple Queue Service" width="40px" style="padding-right: 10px;" src="https://icon.icepanel.io/AWS/svg/App-Integration/Simple-Queue-Service.svg" />
     <img alt="ECS" title="AWS ECS" width="40px" style="padding-right: 10px;" src="https://icon.icepanel.io/AWS/svg/Compute/EC2.svg" />
     <img alt="Docker" title="Docker" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+    <img alt="DynamoDB" title="DynamoDB" width="40px" style="padding-right: 10px;" src="https://icon.icepanel.io/AWS/svg/Database/DynamoDB.svg" />
 </p>
 
 **Data Storage & Formats**
@@ -48,7 +49,6 @@ Sou um **Senior Backend Engineer** especializado no ecossistema **.NET** e arqui
     <img alt="SQL Server" title="SQL Server" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
     <img alt="PostgreSQL" title="PostgreSQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
     <img alt="MongoDB" title="MongoDB" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-    <img alt="DynamoDB" title="DynamoDB" width="40px" style="padding-right: 10px;" src="https://icon.icepanel.io/AWS/svg/Database/DynamoDB.svg" />
     <img alt="Redis" title="Redis" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
     <img alt="Parquet" title="Apache Parquet" width="40px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/apache/parquet-format/25f05e73d8cd7f5c83532ce51cb4f4de8ba5f2a2/logo/parquet-logos_1.svg" />
 </p>
