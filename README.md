@@ -47,8 +47,3 @@ Sou um **Senior Backend Engineer** especializado no ecossistema **.NET** e arqui
   <img src="https://raw.githubusercontent.com/apache/parquet-format/25f05e73d8cd7f5c83532ce51cb4f4de8ba5f2a2/logo/parquet-logos_1.svg" width="40" title="Apache Parquet" alt="Parquet" />
 </p>
 
----
-
-<br clear="both">
-
-> "Não importa o quanto você se dedique: a água da cascata nunca cairá para cima."
