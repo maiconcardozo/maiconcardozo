@@ -49,11 +49,6 @@ Sou um **Senior Backend Engineer** especializado no ecossistema **.NET** e arqui
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img height="180" src="https://streak-stats.demolab.com/?user=maiconcardozo&theme=tokyonight&locale=pt_BR" alt="GitHub Streak" />
-</p>
-
 <br clear="both">
 
 ---
