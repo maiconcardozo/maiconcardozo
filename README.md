@@ -51,6 +51,4 @@ Sou um **Senior Backend Engineer** especializado no ecossistema **.NET** e arqui
 
 <br clear="both">
 
----
-
 > "Não importa o quanto você se dedique: a água da cascata nunca cairá para cima."
