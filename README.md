@@ -42,6 +42,7 @@ Sou um **Senior Backend Engineer** especializado no ecossistema **.NET** e arqui
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" title="SQL Server" alt="SQL Server" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" alt="PostgreSQL" />
+   <img src="https://www.svgrepo.com/show/354037/mariadb-icon.svg" width="40" title="MariaDB" alt="MariaDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="40" title="Redis" alt="Redis" />
   <img src="https://raw.githubusercontent.com/apache/parquet-format/25f05e73d8cd7f5c83532ce51cb4f4de8ba5f2a2/logo/parquet-logos_1.svg" width="40" title="Apache Parquet" alt="Parquet" />
